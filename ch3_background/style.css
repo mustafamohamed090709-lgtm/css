@@ -1,0 +1,10 @@
+body {
+    /* background-color: yellow;
+    background-image: url("https://m.media-amazon.com/images/I/61nih56P0SL.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; */
+    color: white;
+    background-attachment: scroll;
+    background: yellow no-repeat  center center / cover url("https://m.media-amazon.com/images/I/61nih56P0SL.jpg");
+
+}
